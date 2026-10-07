@@ -22,9 +22,9 @@ Obviously, this bot is not made to look after other players (or known people), b
 Anyway, I cannot control what you will do with this.. It is you and yourself.
 ```
 
-- Preview of a message sent by the bot.
+- Preview of a message sent by the bot. <br>
 ![Preview](img/preview.png)
-- Preview of the image sent with the message.
+- Preview of the image sent with the message. <br>
 ![Full preview](img/preview_full.png)
 
 ## ⚖️ LICENSE
@@ -36,7 +36,7 @@ If you reupload this code / bot, please also use the MIT Licence and give me cre
 It seems I can't find the original source of all the .svg used in the project.
 They are not made by me, so please send me the link if you find them to give them credit.
 ```
-- See [LICENCE](LICENCE) for more information.
+- See [LICENCE](/LICENCE) for more information.
 
 ## 🚨 RIGHTS
 
