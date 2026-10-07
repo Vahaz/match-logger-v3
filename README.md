@@ -36,7 +36,7 @@ If you reupload this code / bot, please also use the MIT Licence and give me cre
 It seems I can't find the original source of all the .svg used in the project.
 They are not made by me, so please send me the link if you find them to give them credit.
 ```
-- See [LICENCE](/LICENCE) for more information.
+- See [LICENSE](/LICENSE) for more information.
 
 ## 🚨 RIGHTS
 
