@@ -1,0 +1,9 @@
+{
+  "joueurs": [],
+  "refreshRateMatchMS": 180000,
+  "refreshRateSpectatorMS": 300000,
+  "channelID": "YOUR_DISCORD_CHANNEL_ID",
+  "data_dragon": "16.20.1",
+  "win": 0,
+  "loss": 0
+}
